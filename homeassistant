@@ -1,5 +1,7 @@
 nabu.casa
 home-assistant.io
+api.nabucasa.com
+remotestate.nabucasa.com
 cloud.nabucasa.com
 accounts.google.com
 account-link.nabucasa.com
@@ -29,3 +31,5 @@ m1.tuyaeu.com
 apigw.tuyaeu.com
 
 api.smartthings.com
+
+cli.speedtest.net
