@@ -39,9 +39,16 @@ repo-alt.securityonion.net
 sigs.securityonion.net
 repo.saltstack.com
 snort.org
+kibana-knowledge-base-artifacts.elastic.co
+infra-cdn.elastic.co
 
 packages.wazuh.com
 cti.wazuh.com
 
-pool.ntp.org
-2.debian.pool.ntp.org
+
+
+grafana.com
+
+discord.com
+
+speedtest.administrator.no
