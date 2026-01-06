@@ -1,5 +1,6 @@
 nabu.casa
 home-assistant.io
+my.home-assistant.io
 api.nabucasa.com
 remotestate.nabucasa.com
 cloud.nabucasa.com
@@ -14,8 +15,6 @@ aa015h6buqvih86i1.api.met.no
 dataportal-api.nordpoolgroup.com
 
 api.bambulab.com
-
-developer.home-connect.com
 
 mn-be-prod-documentation.s3-website.eu-central-1.amazonaws.com
 
@@ -39,4 +38,5 @@ cli.speedtest.net
 
 data-v2.hacs.xyz
 
-api-gateway-lb-414308807.eu-central-1.elb.amazonaws.com
+api.home-connect.com
+developer.home-connect.com
