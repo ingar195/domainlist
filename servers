@@ -1,32 +1,41 @@
+# Norwegian Arch Linux mirrors
 mirror.neuf.no
 mirror.archlinux.no
 archlinux.uib.no
 mirror.terrahost.no
 aur.archlinux.org
 
+# Docker
 docker.com
 docker.io
 
+# GitHub
 github.com
 ghcr.io
 githubusercontent.com
 
+# Gard
 next.0xbace.io
 
+# Mail
 one.com
 
+# Debian / Proxmox
 deb.debian.org
 security.debian.org
 download.proxmox.com
 enterprise.proxmox.com
 debian.map.fastlydns.net
 
+# Python
 python.org
 pypi.org
 
+# NPM
 angry.fish
 letsencrypt.org
 
+# Security Onion
 so-repo-east.s3.us-east-005.backblazeb2.com
 artifacts.elastic.co
 geoip.elastic.co
@@ -42,13 +51,14 @@ snort.org
 kibana-knowledge-base-artifacts.elastic.co
 infra-cdn.elastic.co
 
+# Wazuh
 packages.wazuh.com
 cti.wazuh.com
-
-
-
-grafana.com
-
 discord.com
 
+
+#Grafana
+grafana.com
+
+# Speedtest
 speedtest.administrator.no

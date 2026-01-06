@@ -1,3 +1,4 @@
+# HomeAssistant
 nabu.casa
 home-assistant.io
 my.home-assistant.io
@@ -10,33 +11,43 @@ cognito-idp.us-east-1.amazonaws.com
 servicehandlers.nabucasa.com
 api.powercalc.nl
 
+# Met 
 aa015h6buqvih86i1.api.met.no
 
+# Nordpool
 dataportal-api.nordpoolgroup.com
 
+# Bambu
 api.bambulab.com
 
+# Mill
 mn-be-prod-documentation.s3-website.eu-central-1.amazonaws.com
 
+# Min Renovasjon
 norkartrenovasjon.azurewebsites.net
 komteksky.norkart.no
 arim.no
 
+
+# Goole Nest Protect
 nest.com
 googleapis.com
 apps.googleusercontent.com
 
+# Tessie
 tessie.com
 
+# Tuya
 developer.tuya.com
 m1.tuyaeu.com
 apigw.tuyaeu.com
 
+# Samsung Smart things
 api.smartthings.com
 
-cli.speedtest.net
-
+# Hacs
 data-v2.hacs.xyz
 
+# Home-connect
 api.home-connect.com
 developer.home-connect.com
