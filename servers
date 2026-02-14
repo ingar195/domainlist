@@ -5,6 +5,10 @@ archlinux.uib.no
 mirror.terrahost.no
 aur.archlinux.org
 
+# Amazon linux (wazuh)
+cdn.amazonlinux.com
+packages.fluentbit.io
+
 # Docker
 docker.com
 docker.io
@@ -55,6 +59,7 @@ infra-cdn.elastic.co
 packages.wazuh.com
 cti.wazuh.com
 discord.com
+wazuh.com
 
 
 #Grafana

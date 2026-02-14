@@ -51,3 +51,6 @@ data-v2.hacs.xyz
 # Home-connect
 api.home-connect.com
 developer.home-connect.com
+
+# Nodered
+registry.npmjs.org
