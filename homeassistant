@@ -27,6 +27,7 @@ mn-be-prod-documentation.s3-website.eu-central-1.amazonaws.com
 norkartrenovasjon.azurewebsites.net
 komteksky.norkart.no
 arim.no
+attvin.no
 
 
 # Goole Nest Protect
@@ -54,3 +55,6 @@ developer.home-connect.com
 
 # Nodered
 registry.npmjs.org
+
+# Z-Wave JS Firmware
+firmware.zwave-js.io 
