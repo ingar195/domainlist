@@ -18,9 +18,6 @@ github.com
 ghcr.io
 githubusercontent.com
 
-# Gard
-next.0xbace.io
-
 # Mail
 one.com
 
@@ -61,7 +58,6 @@ packages.wazuh.com
 cti.wazuh.com
 discord.com
 wazuh.com
-
 
 #Grafana
 grafana.com
