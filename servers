@@ -36,6 +36,7 @@ pypi.org
 # NPM
 angry.fish
 letsencrypt.org
+acme-v02.api.letsencrypt.org
 
 # Security Onion
 so-repo-east.s3.us-east-005.backblazeb2.com
@@ -59,6 +60,7 @@ cti.wazuh.com
 discordapp.com
 discord.com
 wazuh.com
+server-3-164-230-56.arn53.r.cloudfront.net
 
 #Grafana
 grafana.com
