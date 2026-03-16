@@ -12,6 +12,7 @@ packages.fluentbit.io
 # Docker
 docker.com
 docker.io
+cloudflarestorage.com
 
 # GitHub
 github.com
@@ -62,7 +63,7 @@ discord.com
 wazuh.com
 server-3-164-230-56.arn53.r.cloudfront.net
 
-#Grafana
+# Grafana
 grafana.com
 
 # Speedtest
