@@ -39,22 +39,6 @@ angry.fish
 letsencrypt.org
 acme-v02.api.letsencrypt.org
 
-# Security Onion
-so-repo-east.s3.us-east-005.backblazeb2.com
-artifacts.elastic.co
-geoip.elastic.co
-rules.emergingthreatspro.com
-rules.emergingthreats.net
-storage.googleapis.com
-yum.oracle.com
-repo.securityonion.net
-repo-alt.securityonion.net
-sigs.securityonion.net
-repo.saltstack.com
-snort.org
-kibana-knowledge-base-artifacts.elastic.co
-infra-cdn.elastic.co
-
 # Wazuh
 packages.wazuh.com
 cti.wazuh.com
@@ -69,7 +53,17 @@ secure.gravatar.com
 
 # Speedtest
 speedtest.administrator.no
+cli.speedtest.net.cdn.cloudflare.net
 
 # Vscode
 update.code.visualstudio.com
 packages.microsoft.com
+
+# log 2 ram
+packages.azlux.fr
+m1.azlux.fr
+urlhaus.abuse.ch
+
+# Pegaprox
+updates.pegaprox.com
+cdn.jsdelivr.net
