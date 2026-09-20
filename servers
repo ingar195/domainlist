@@ -1,9 +1,7 @@
-# Norwegian Arch Linux mirrors
-mirror.neuf.no
-mirror.archlinux.no
-archlinux.uib.no
-mirror.terrahost.no
-aur.archlinux.org
+# AI
+githubcopilot.com
+claude.com
+claude.ai
 
 # Amazon linux (wazuh)
 cdn.amazonlinux.com
@@ -33,6 +31,7 @@ archive.raspberrypi.com
 # Python
 python.org
 pypi.org
+astral.sh
 
 # NPM
 angry.fish
@@ -52,12 +51,16 @@ grafana.com
 secure.gravatar.com
 
 # Speedtest
+speedtest.net
 speedtest.administrator.no
 cli.speedtest.net.cdn.cloudflare.net
 
 # Vscode
 update.code.visualstudio.com
 packages.microsoft.com
+
+# Node
+registry.npmjs.org
 
 # log 2 ram
 packages.azlux.fr
