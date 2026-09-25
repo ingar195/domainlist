@@ -28,6 +28,11 @@ enterprise.proxmox.com
 debian.map.fastlydns.net
 archive.raspberrypi.com
 
+# Discord
+discordapp.com
+discord.com
+discord.gg
+
 # Python
 python.org
 pypi.org
@@ -41,8 +46,6 @@ acme-v02.api.letsencrypt.org
 # Wazuh
 packages.wazuh.com
 cti.wazuh.com
-discordapp.com
-discord.com
 wazuh.com
 server-3-164-230-56.arn53.r.cloudfront.net
 
