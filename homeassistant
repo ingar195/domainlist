@@ -7,9 +7,19 @@ remotestate.nabucasa.com
 cloud.nabucasa.com
 accounts.google.com
 account-link.nabucasa.com
-cognito-idp.us-east-1.amazonaws.com
 servicehandlers.nabucasa.com
 api.powercalc.nl
+
+# uconnect
+fiat.com
+gigya.com
+apigw.iotbing.com
+loginmyuconnect.fiat.com
+authz.sdpr-01.fcagcv.com
+channels.sdpr-01.fcagcv.com
+cognito-idp.us-east-1.amazonaws.com
+cognito-identity.eu-west-1.amazonaws.com
+d-65ppot6ev7.execute-api.eu-west-1.amazonaws.com
 
 # Met 
 aa015h6buqvih86i1.api.met.no
