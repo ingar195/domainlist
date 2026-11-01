@@ -1,0 +1,47 @@
+name: Generate clean domain lists
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: clean-domain-lists
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Generate filtered copies
+        shell: bash
+        run: |
+          set -euo pipefail
+          git rm -r --ignore-unmatch -- clean
+          while IFS= read -r -d '' file; do
+            mkdir -p "clean/$(dirname "$file")"
+            sed '/#/d' "$file" > "clean/$file"
+          done < <(git ls-files -z -- . ':!readme.md' ':!.github' ':!clean')
+          git add -- clean
+
+      - name: Commit updated copies
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git diff --cached --quiet; then
+            echo "Filtered copies are already up to date."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update clean domain lists" \
+            -m "Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>"
+          git push origin HEAD:main
