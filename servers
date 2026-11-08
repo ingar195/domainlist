@@ -48,7 +48,8 @@ acme-v02.api.letsencrypt.org
 packages.wazuh.com
 cti.wazuh.com
 wazuh.com
-server-3-164-230-56.arn53.r.cloudfront.net
+server-3-164-230-56.arn53.r.cloudfront.net,
+packages-staging.xdrsiem.wazuh.info
 
 # Grafana
 grafana.com
