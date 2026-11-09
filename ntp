@@ -1,5 +1,7 @@
 pool.ntp.org
-2.debian.pool.ntp.org
+time.nist.gov
 ntp.ubuntu.com
-1.pool.ntp.org
-0.datadog.pool.ntp.org
+time.google.com
+time.windows.com
+debian.pool.ntp.org
+datadog.pool.ntp.org
