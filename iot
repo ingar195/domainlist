@@ -35,8 +35,10 @@ connectivity.smartthings.com
 dc.connect.smartthings.com
 ocfconnect-shard-eu02-euwest1.samsungiotcloud.com
 
-# Bambu
+# Bambu 
 bambulab.com
+# Only for the printer
+s3-r-w.us-west-2.amazonaws.com
 
 # Reolink
 reolink.com
